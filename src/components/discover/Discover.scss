@@ -3,6 +3,8 @@
   flex-direction: column;
   margin: auto;
 
+  margin-left: 25%;
+
   &__row {
     display: flex;
     flex-direction: row;
@@ -15,11 +17,14 @@
   }
   &__games {
     display: flex;
-    margin-left: auto;
+
     margin-bottom: 10rem;
 
     &-img {
       width: 70%;
     }
   }
+}
+.discover-wrapper {
+  margin-bottom: 2rem;
 }
