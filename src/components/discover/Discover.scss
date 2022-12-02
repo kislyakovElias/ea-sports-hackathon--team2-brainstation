@@ -1,0 +1,25 @@
+.discover {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+
+  &__row {
+    display: flex;
+    flex-direction: row;
+  }
+  &wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 47rem;
+    margin-bottom: 2rem;
+  }
+  &__games {
+    display: flex;
+    margin-left: auto;
+    margin-bottom: 10rem;
+
+    &-img {
+      width: 70%;
+    }
+  }
+}

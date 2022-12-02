@@ -1,0 +1,28 @@
+@use "./main.scss";
+@use "./styles/partials/colors" as *;
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  font-family: "Electronic Arts Text","Arial";
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}

@@ -1,0 +1,49 @@
+.green {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  // justify-content: center;
+  transform: translate(0px, -105px);
+  align-items: center;
+  &Box {
+    background: url("../../assets/slider/get-your-game-on-BG.jpg") no-repeat;
+    // background-size: cover;
+    // flex-direction: column;
+    min-width: 1440px;
+    max-width: 1440px;
+    height: 720px;
+    &-wrapper {
+      padding-left: 6rem;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+      height: 100%;
+    }
+    &-title {
+      color: white;
+      font-size: 2rem;
+      font-weight: 600;
+    }
+    &-text {
+      color: white;
+      width: 400px;
+    }
+    &-btn {
+      padding: 2rem 0;
+      display: flex;
+      flex-direction: row;
+      &-holder {
+        width: 100%;
+      }
+      &-insideBtn {
+        border-radius: 5px;
+        width: 12.5rem;
+        height: 2.5rem;
+        background-color: #ffffff;
+        margin-right: 0.75rem;
+        padding-bottom: 0.05rem;
+      }
+    }
+  }
+}
