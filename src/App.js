@@ -8,8 +8,8 @@ function App() {
     <>
       {/* <Header /> */}
       <Routes>
-        <Route path="*" element={<AppPage />} />
-        <Route path="/ea-app" element={<MainPage />} />
+        <Route path="*" element={<MainPage />} />
+        <Route path="/ea-app" element={<AppPage />} />
       </Routes>
       {/* <Footer /> */}
     </>
