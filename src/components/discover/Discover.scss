@@ -8,6 +8,9 @@
   &__row {
     display: flex;
     flex-direction: row;
+    &_btn{
+      height: 2.5rem;
+    }
   }
   &wrapper {
     display: flex;

@@ -15,7 +15,7 @@ export default function Discover() {
           </div>
           <div className="discover__row">
             <p>Top Ten Streaming Now</p>
-            <button>See in the EA APP</button>
+            <button className="discover__row_btn">See in the EA APP</button>
           </div>
         </div>
         <div className="discover__games">

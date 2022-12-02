@@ -15,7 +15,7 @@ const ParalaxBottom = () => {
 
               right: "0%",
               top: "0%",
-              width: percentage * 2200,
+              width: percentage * 1600,
               height: percentage * 2000,
             }}
           />
