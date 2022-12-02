@@ -9,7 +9,7 @@
   &__slide {
     width: 16%;
     height: 100%;
-    //   border: solid orange 1px;
+      // border: solid orange 1px;
     transform: rotate(7deg);
     z-index: 10;
     transition: width 0.75s ease-in;
@@ -53,8 +53,8 @@
   }
 }
 .img3 {
-  background: url("../../assets/slider/Battlefield-slider3.jpg") no-repeat;
-  background-position: -950px;
+  background: url("../../assets/slider/Battlefield-slider3.jpg");
+  background-position: -999px;
   &:hover {
     background-position: -175px;
   }
