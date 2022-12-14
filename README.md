@@ -69,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # -ea-sports-hackathon--team2-brainstation
+
+*****
+To UPD
+*****
+
+To try another approach:
+-Use skew 
+- Use ClipPath (thru clip path maker)
